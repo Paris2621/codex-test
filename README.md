@@ -1,2 +1,2 @@
 # codex-test
-test kết nối codẽ
+test kết nối codex
